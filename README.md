@@ -1,5 +1,5 @@
 - 🙋‍♂️Olá, meu nome é Gabriel
-- 🔭 Estou estudando na Alura
+- 📖 Estou estudando na Alura
 - 🌱Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 - 💬 Estou me desenvolvendo na linguagem JavaScript
 
